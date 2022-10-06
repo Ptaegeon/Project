@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../_10_Stock_Analysis/.idea/_10_Stock_Analysis.iml" filepath="$PROJECT_DIR$/../_10_Stock_Analysis/.idea/_10_Stock_Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/_8_Calender_Share.iml" filepath="$PROJECT_DIR$/.idea/_8_Calender_Share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../_9_Recommand_based_on_the_whether/.idea/_9_Recommand_based_on_the_weather.iml" filepath="$PROJECT_DIR$/../_9_Recommand_based_on_the_whether/.idea/_9_Recommand_based_on_the_weather.iml" />
+    </modules>
+  </component>
+</project>
